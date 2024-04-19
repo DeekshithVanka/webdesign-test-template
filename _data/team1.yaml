@@ -1,6 +1,5 @@
- ---
-Employees:
-- name: John Doe
-  department: Engineering
-  country: USA
-
+foo: bar
+pleh: help
+stuff:
+  foo: bar
+  bar: foo
